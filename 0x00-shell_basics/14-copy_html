@@ -1,3 +1,2 @@
 #!/bin/bash
-cp -n texto.html /c/Users/Administrator/holberton-system_engineering-devops/0x00-shell_basics 
-
+cp -n texto.html /c/Users/Administrator/holberton-system_engineering-devops/0x00-shell_basics
