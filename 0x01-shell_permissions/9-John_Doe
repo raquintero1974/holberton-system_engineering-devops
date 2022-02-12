@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 753 /home/holberton-systems_engineering-devops/0x01-permissions/
+chmod 753 hello
